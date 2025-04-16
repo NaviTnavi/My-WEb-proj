@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Welcome to VIETNAM</title>
+</head>
+<body>
+
+  <nav>
+    <div class="nav_logo"><a href="#">VIETNAM</a></div>
+    <ul class="nav_links">
+      <li class="link">HOME</li>
+      <li class="link">BLOG</li>
+      <li class="link">OFFERS</li>
+      <li class="link">SERVICES</li>
+      <li class="link">CONTACTS</li>
+    </ul>
+  </nav>
+
+  <header>
+    <div class="section_container">
+      <div class="header_content">
+        <h1>EXPLORE VIETNAM</h1>
+        <button>
+          READ MORE
+        </button>
+      </div>
+    </div>
+  </header>
+  <div class="journey_container">
+<div class="section_container">
+    <h2 class="section_title">Start Your Journey </h2>
+    <p class="section_subtitle">The most searched coutnries in april</p>
+</div>
+
+  </div>
+</body>
+</html>
