@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="style.css">
+  <title>Welcome to VIETNAM</title>
+</head>
+<body>
+
+  <nav>
+    <div class="nav_logo"><a href="#">VIETNAM</a></div>
+    <ul class="nav_links">
+      <li class="link">HOME</li>
+      <li class="link">BLOG</li>
+      <li class="link">OFFERS</li>
+      <li class="link">SERVICES</li>
+      <li class="link">CONTACTS</li>
+    </ul>
+  </nav>
+
+  <header>
+    <div class="section_container">
+      <div class="header_content">
+        <h1>EXPLORE VIETNAM</h1>
+        <button>
+          READ MORE
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <section class="journey_container">
+    <div class="section_container">
+      <h2 class="section_title">Start Your Journey</h2>
+      <p class="section_subtitle">The most searched countries in April</p>
+      <div class="journey_grid">
+        <a href="https://vietnam.travel/sites/default/files/360Tour/HaNoi/index.htm" target="_blank" class="country_link">
+          <div class="country_Card">
+              <img src="images/HANOI PIC 1 URBAN.jpg" alt="country">
+              <div class="country_name">
+                  <i class="ri-map-pin-fill"></i>
+                  <span>VIETNAM, HANOI</span>
+              </div>  
+          </div>
+        </a>
+        <a href="https://vietnam.travel/sites/default/files/360Tour/DaNang/index.htm" target="_blank" class="country_link">
+          <div class="country_Card">
+              <img src="images/Da nang URBAN PIC 2.jpg" alt="country">
+              <div class="country_name">
+                  <i class="ri-map-pin-fill"></i>
+                  <span>VIETNAM, DA NANG</span>
+              </div>
+          </div>
+        </a>
+        <a href="https://vietnam.travel/sites/default/files/360Tour/HoChiMinhCity/index.htm" target="_blank" class="country_link">
+          <div class="country_Card">
+              <img src="images/Ho Chi minh city URABN PIC 3.jpg" alt="country">
+              <div class="country_name">
+                  <i class="ri-map-pin-fill"></i>
+                  <span>VIETNAM, HO CHI MINH CITY</span>
+              </div>
+          </div>
+        </a>
+        <a href="https://vietnam.travel/sites/default/files/360Tour/HaLong/index.htm" target="_blank" class="country_link">
+          <div class="country_Card">
+              <img src="images/HA LONG.jpg" alt="country">
+              <div class="country_name">
+                  <i class="ri-map-pin-fill"></i>
+                  <span>VIETNAM, HA LONG</span>
+              </div>
+          </div>
+        </a>
+        <a href="https://vietnam.travel/sites/default/files/360Tour/NinhBinh/index.htm" target="_blank" class="country_link">
+          <div class="country_Card">
+              <img src="images/NINH BING.jpg" alt="country">
+              <div class="country_name">
+                  <i class="ri-map-pin-fill"></i>
+                  <span>VIETNAM, NINH BINH</span>
+              </div>
+          </div>
+        </a>
+        <a href="https://vietnam.travel/sites/default/files/360Tour/PhongNha/index.htm" target="_blank" class="country_link">
+          <div class="country_Card">
+              <img src="images/PHONG NA.jpg" alt="country">
+              <div class="country_name">
+                  <i class="ri-map-pin-fill"></i>
+                  <span>VIETNAM, PHONG NHA</span>
+              </div>
+          </div>
+        </a>
+        <a href="https://vietnam.travel/sites/default/files/360Tour/Hue/index.htm" target="_blank" class="country_link">
+          <div class="country_Card">
+              <img src="images/HUE.jpg" alt="country">
+              <div class="country_name">
+                  <i class="ri-map-pin-fill"></i>
+                  <span>VIETNAM, HUE</span>
+              </div>
+          </div>
+        </a>
+        <a href="https://vietnam.travel/sites/default/files/360Tour/HaNoi/index.htm" target="_blank" class="country_link">
+          <div class="country_Card">
+              <img src="images/Hoi AN.jpg" alt="country">
+              <div class="country_name">
+                  <i class="ri-map-pin-fill"></i>
+                  <span>VIETNAM, HOI AN</span>
+              </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="banner_container">
+    <div class="section_container">
+      <div class="banner_content">
+        <h2>WHY VIETNAM?</h2>
+        <p>
+          Vietnam is a country of stunning natural beauty, rich history, 
+          and vibrant culture. From the breathtaking landscapes of Ha Long Bay
+          to the bustling streets of Ho Chi Minh City, Vietnam offers
+          a unique blend of experiences that cater to every traveler's desires.
+        </p>
+        <button>SEE TOURS</button>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
